@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shrine-dev-160847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::123967046983:role/amplify-shrine-dev-160847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::123967046983:role/amplify-shrine-dev-160847-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-shrine-dev-160847-deployment",
+      "UnauthRoleName": "amplify-shrine-dev-160847-unauthRole",
+      "StackName": "amplify-shrine-dev-160847",
+      "StackId": "arn:aws:cloudformation:us-west-2:123967046983:stack/amplify-shrine-dev-160847/900c3a40-1ead-11ee-8a48-0a262143e583",
+      "AmplifyAppId": "d3e8cispaj4xm8"
+    }
+  }
+}

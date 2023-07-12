@@ -7,10 +7,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.17.0
+  intl: ^0.18.1
 
   cupertino_icons: ^1.0.5
   shrine_images: ^2.0.2
+  
+  # Amplify packages
+  amplify_flutter: ^1.2.1
+  amplify_datastore: ^1.2.0-supports-only-mobile+1
 
 dev_dependencies:
   flutter_test:
