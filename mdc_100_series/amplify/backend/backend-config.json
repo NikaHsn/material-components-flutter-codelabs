@@ -1,1 +1,22 @@
-{}
+{
+  "api": {
+    "ShrineAppApi": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2024-07-11T16:11:11.578Z",
+              "apiKeyExpirationDays": 365,
+              "description": "ShrineAPIKey"
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  }
+}
